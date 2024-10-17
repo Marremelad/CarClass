@@ -26,7 +26,7 @@ Else, do the following.
 * Navigate to the directory where you keep your repositories.
 * Run the following command
 ```console
-git clone https://github.com/Marremelad/CarClass       
+git clone https://github.com/Marremelad/CarClass.git    
 ```
 * Navigate into the directory that holds the project and run the following command.
 ```console
