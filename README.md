@@ -18,8 +18,7 @@ Mileage: 100
 * .NET 8 or higher
 
 ### Get started
-If you are using Visual Studio or any other IDE with an integrated repo-cloning function use it with this URL -
-REPOURL
+If you are using Visual Studio or any other IDE with an integrated repo-cloning function use it with this URL - https://github.com/Marremelad/CarClass
 then open the solution and run the program.
 
 Else, do the following.
